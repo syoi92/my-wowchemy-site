@@ -1,11 +1,11 @@
 ---
 title: "Deep Floor Plan Analysis for Complicated Drawings Based on Style Transfer"
 authors:
-- Seongyong Kim*
+- Seongyong Kim
 - Seula Park
 - Hyeonjeong Kim
 - Kiyun Yu
-date: "2020-08-06T00:00:00Z"
+date: "2020-11-06T00:00:00Z"
 doi: "10.1061/(ASCE)CP.1943-5487.0000942"
 draft: false
 
