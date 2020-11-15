@@ -38,7 +38,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: syoi0928@gmail.com  # For a direct email link, use "mailto:test@example.org".
+  link: mailto:syoi0928@gmail.com  # For a direct email link, use "mailto:test@example.org".
 # - icon: twitter
 #   icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
