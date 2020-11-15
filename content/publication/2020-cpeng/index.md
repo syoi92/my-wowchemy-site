@@ -32,7 +32,7 @@ featured: true
 
 links:
 - name: pdf
-  url:'#'
+  url: '#'
 # url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
 # url_code: '#'
 # url_dataset: '#'
@@ -64,5 +64,3 @@ links:
 #   Otherwise, set `#slides: ""`.
 # slides: example
 ---
-
-
