@@ -14,11 +14,11 @@ organizations:
   url: "https://icee.snu.ac.kr/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include indoor information, GIS, construction automation based on computer vision.
+
 
 interests:
-- Construction Automation
-- Indoor Spatial Information
+- Construction Automation / Indoor Spatial Information
 - Geographic Information System / Location-based Syetem
 - Computer Vision
 
@@ -27,7 +27,7 @@ education:
   - course: MEng in Civil Engineering
     institution: Seoul National University, South Korea
     year: 2019
-  - course: BSc in Architectural Engineering
+  - course: BE in Architectural Engineering
     institution: Seoul National University, South Korea
     year: 2017
 
@@ -38,7 +38,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: syoi0928@gmail.com  # For a direct email link, use "mailto:test@example.org".
 # - icon: twitter
 #   icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
@@ -67,6 +67,8 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am currently a research fellow at Institute of Construction and Environmental Engineering ([ICEE](https://cee.snu.ac.kr/english/index.php)), the affiliated research institute in Seoul National Univiersity. I finished my MSc in Spatial Informatics Group at Seoul National University, advsied by [Yongil Kim](http://spins.snu.ac.kr/) and [Kiyun Yu](https://gislbs.net/). I got my BE in architectural engineering at Seoul National Univeristy in South Korea. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+As an early team member, I am also participating in [UITI](http://uiti.co.kr/), the startup based on LBS. I engaged in the launch of [Ziphz](https://ziphz.com/), the web service that recommends real estate and links customers to the agents. Besides, by proposing a business item recommending commercial district to new business owners, I won a government fund worth $50000 in my sole name. I've been working on a minimum value product with the team I hired.
+
+I plan to be an incoming student for the doctoral program in civil engineering at Georgia Tech from 2021 Spring. 
