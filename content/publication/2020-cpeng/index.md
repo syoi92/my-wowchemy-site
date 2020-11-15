@@ -5,7 +5,7 @@ authors:
 - Seula Park
 - Hyeonjeong Kim
 - Kiyun Yu
-date: "2020-06-13T00:00:00Z"
+date: "2020-08-06T00:00:00Z"
 doi: "10.1061/(ASCE)CP.1943-5487.0000942"
 draft: false
 
