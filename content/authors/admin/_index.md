@@ -67,7 +67,7 @@ user_groups:
 - Visitors
 ---
 
-I am currently a research fellow at Institute of Construction and Environmental Engineering ([ICEE](https://cee.snu.ac.kr/english/index.php)). I finished my MSc in SPatial INformatics Group at Seoul National University, advised by [Yongil Kim](http://spins.snu.ac.kr/) and [Kiyun Yu](https://gislbs.net/). I got my BE in architectural engineering at Seoul National Univeristy in South Korea. 
+I am currently a research fellow at Institute of Construction and Environmental Engineering ([ICEE](https://cee.snu.ac.kr/english/index.php)). I finished my MEng in SPatial INformatics Group at Seoul National University, advised by [Yongil Kim](http://spins.snu.ac.kr/) and [Kiyun Yu](https://gislbs.net/). I got my BE in architectural engineering at Seoul National Univeristy in South Korea. 
 
 As an early startup team member, I am also participating in [UITI](http://uiti.co.kr/) based on LBS business in Korea. I engaged in launching [집현전 [Wise Strategy to Buy a House]](https://ziphz.com/), the web service that recommends real estate and links customers to the agents. Besides, by proposing a business item recommending commercial district to new business owners, I won a government fund worth $50000 in my sole name. For do that, I've been working on a minimum value product with the team I've hired.
 
