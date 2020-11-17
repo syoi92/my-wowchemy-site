@@ -1,5 +1,5 @@
 ---
-title: "Deep Floor Plan Analysis for Complicated Drawings Based on Style Transfer"
+title: "Deep Floor Plan Analysis for Complicated Drawings Based on Style Transfer (currently typesetting in CPENG)"
 authors:
 - Seongyong Kim
 - Seula Park
