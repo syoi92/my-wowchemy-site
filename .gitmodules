@@ -1,4 +1,0 @@
-[submodule "public"]
-	path = public
-	url = https://github.com/syoi92/syoi92.github.io.git
-	branch = master
