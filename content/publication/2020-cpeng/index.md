@@ -19,7 +19,7 @@ draft: false
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: Journal of Computing in Civil Engineering
+publication: ASCE Journal of Computing in Civil Engineering
 # publication_short: In *STC*
 
 # abstract: 
