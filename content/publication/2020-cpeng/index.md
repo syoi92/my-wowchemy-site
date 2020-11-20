@@ -1,16 +1,16 @@
 ---
-title: "Deep Floor Plan Analysis for Complicated Drawings Based on Style Transfer (currently typesetting in CPENG)"
+title: "Deep Floor Plan Analysis for Complicated Drawings Based on Style Transfer (currently on typesetting)"
 authors:
-- Seongyong Kim
+- Admin
 - Seula Park
 - Hyeonjeong Kim
 - Kiyun Yu
-date: "2020-11-06T00:00:00Z"
-doi: "10.1061/(ASCE)CP.1943-5487.0000942"
+date: 2020-11-20T17:07:57+09:00
+doi: "https://doi.org/10.1061/(ASCE)CP.1943-5487.0000942"
 draft: false
 
 # Schedule page publish date (NOT publication's date).
-# publishDate: "2017-01-01T00:00:00Z"
+publishDate: 2020-11-20T17:07:57+09:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -22,12 +22,15 @@ publication_types: ["2"]
 publication: ASCE Journal of Computing in Civil Engineering
 # publication_short: In *STC*
 
-# abstract: 
+abstract: "This paper presents a novel approach to retrieve indoor structures from raster images of complicated floor plans. We extract the building elements in the floor plan and process them into a vectorized form to provide indoor layout information. Unlike conventional approaches, the proposed model is robust when recognizing rooms and openings surrounded by obscuring patterns, including superimposed graphics and irregular notation. To this end, we integrate various floor plan formats into a unified style using conditional generative adversarial networks prior to vectorization. This style-transferred plan that follows the unified style represents the room structure intuitively and is readily vectorized due to its concise expression. Raster-to-vector conversion is conducted with a combinatorial optimization in junction units of the layout. The experimental results demonstrate that when implemented with complex drawings, our model is comparable to existing methods in the detection and recognition of rooms and provides a much better score in one-to-one matches."
 # Summary. An optional shortened abstract.
-# summary:
+summary: "Keywords: Indoor Spaces; Floor Plan Analysis; Style Transfer; Conditional Generative Adversarial Networks (cGAN); Integer Programming  
 
-# tags:
-#- Source Themes
+
+*Journal of Computing in Civil Engineering*, accepted in Aug. 2020."
+
+tags: []
+categories: ["Indoor"]
 featured: true
 
 links:
@@ -54,8 +57,7 @@ links:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-# projects:
-# - internal-project
+projects: ["2020-Indoor"]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
