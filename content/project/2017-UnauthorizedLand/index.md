@@ -1,10 +1,10 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "2017 UnauthorizedLand"
+title: "GIS- UnauthorizedLand [Korea LX, Jul.–Oct. 2017]"
 summary: ""
 authors: []
-tags: ["past"]
+tags: ["past", "gis"]
 categories: []
 date: 2020-11-20T16:56:15+09:00
 

@@ -35,7 +35,7 @@ featured: true
 
 links:
 - name: pdf
-  url: '#'
+  url: 'media/2020-CPENG/CP-CPENG-3708_AUTHOR_1.pdf'
 # url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
 # url_code: '#'
 # url_dataset: '#'

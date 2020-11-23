@@ -1,10 +1,10 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Indoor Reconstruction"
+title: "Indoor Reconstruction [Korea MOLIT, Jul. 2017 – Dec. 2020]"
 summary: "Floorplan Analysis: retriving the indoor structure from floorplans"
 authors: []
-tags: ["selected", "research"]
+tags: ["selected", "recent"]
 categories: ["Indoor"]
 date: 2020-11-20T17:00:07+09:00
 

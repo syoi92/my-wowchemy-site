@@ -1,10 +1,10 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "2017 Address"
+title: "GIS- Advanced Address System [Korea MOI, Jul.-Dec. 2017]"
 summary: ""
 authors: []
-tags: ["past"]
+tags: ["past", "gis"]
 categories: []
 date: 2020-11-20T16:53:40+09:00
 

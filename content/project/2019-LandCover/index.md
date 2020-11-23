@@ -1,10 +1,10 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Updating Land Category in Cadastral Map Using Hyperspectral UAV"
+title: "GIS- Updating Land Category in Cadastral Map Using Hyperspectral UAV [Korea LX, Jan.–Dec. 2019]"
 summary: "Cadastral Map; Discrepancy Analysis; Land Update; Hyperspectral UAV; Land Classificaion; 3D-CNN; Integration Analysis"
 authors: []
-tags: ["selected", "research"]
+tags: ["selected", "recent", "gis"]
 categories: ["GIS"]
 date: 2020-11-19T14:21:25+09:00
 

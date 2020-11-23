@@ -28,10 +28,10 @@ subtitle = ""
   [[content.filter_button]]
     name = "Selected"
     tag = "selected"
-  
+
   [[content.filter_button]]
-    name = "Research"
-    tag = "research"
+    name = "Recent research"
+    tag = "recent"
   
   [[content.filter_button]]
     name = "Startup"

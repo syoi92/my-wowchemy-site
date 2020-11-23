@@ -1,10 +1,11 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Location Allocation based on QGIS"
-summary: "GIS consulting at Samsung Economic Research Institute (SERI)"
+#title: "Location Allocation based on QGIS"
+title: "GIS- Consulting Location Allocation [Samsung Economic Research Institute, May–Jun. 2020]"
+summary: "GIS consulting using open source software (Q-GIS)"
 authors: ["admin"]
-tags: ["research"]
+tags: ["recent", "gis"]
 categories: ["GIS"]
 date: 2020-11-20T14:20:55+09:00
 

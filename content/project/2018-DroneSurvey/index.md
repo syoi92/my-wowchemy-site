@@ -1,10 +1,10 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "2018 DroneSurvey"
+title: "GIS- DroneSurvey [Seoul SROCM, Jun.–Jul. 2018]"
 summary: ""
 authors: []
-tags: ["past"]
+tags: ["past", "gis"]
 categories: []
 date: 2020-11-20T16:57:09+09:00
 
