@@ -2,8 +2,8 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 #title: "Location Allocation based on QGIS"
-title: "GIS- Consulting Location Allocation [Samsung Economic Research Institute, May–Jun. 2020]"
-summary: "GIS consulting using open source software (Q-GIS)"
+title: "GIS- Consulting Location Allocation as an Adversory Researcher [Samsung Economic Research Institute, May–Jun. 2020]"
+summary: "GIS consulting based on open source software (QGIS)"
 authors: ["admin"]
 tags: ["recent", "gis"]
 categories: ["GIS"]

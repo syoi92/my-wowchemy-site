@@ -22,7 +22,7 @@ subtitle = ""
   order = "desc"
 
   # Show a "See all pages" link underneath the featured content?
-  link_to_archive = false
+  link_to_archive = true
 
   # Filter posts by a taxonomy term.
   [content.filters]
@@ -30,7 +30,7 @@ subtitle = ""
     category = ""
     publication_type = ""
     author = ""
-  
+
 [design]
   # Toggle between the various page layout types.
   #   1 = List

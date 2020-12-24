@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "사용자 참여형 위치 식별 방법"
+title: "(Korean) 사용자 참여형 위치 식별 방법"
 authors:
 - Kiyun Yu (50%)
 - Janghyuk Im (20%)

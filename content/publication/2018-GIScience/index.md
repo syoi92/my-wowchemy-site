@@ -20,7 +20,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: "10th International Conference on Geographic Information Science (GIScience 2018)"
-publication_short: "GIScience 2018"
+publication_short: "GIScience 2018 (**Oral Presentation**)"
 
 abstract: "As the market for indoor spatial information burgeons, the construction of indoor spatial databases consequently gain attention. Since floorplans are portable records of buildings, they are an indispensable source for the efficient construction of indoor environments. However, as previous research on floorplan information retrieval usually targeted specific formats, a system for constructing spatial information must include heuristic refinement steps. This study aims to convert diverse floorplans into an integrated format using the style transfer by deep networks. Our deep networks mimic a robust perception of human that recognize the cell structure of floorplans under various formats. The integrated format ensures that unified post-processing steps are required to the vectorization of floorplans. Through this process, indoor spatial information is constructed in a pragmatic way, using a plethora of architectural floorplans."
 

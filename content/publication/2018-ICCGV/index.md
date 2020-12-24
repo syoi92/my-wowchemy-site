@@ -20,7 +20,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Proceedings of the 2nd International Conference on Digital Signal Processing (ICDSP 2018)"
-publication_short: "ICDSP 2018"
+publication_short: "ICDSP 2018 (**Oral Presentation**)"
 
 abstract: "With the recent advances in unmanned aerial vehicle (UAV) technology, remote sensing images have become relatively easy to obtain and their accuracy has increased enough to be able to handle land information. Therefore, there is a growing demand to utilize remote sensing images for extracting semantic objects Conventional methods are mainly focused on pixel-based classification and recently people commonly use convolutional neural networks, which post processing is required to linearize roads that are cut off and accurately shape the contours of buildings. We propose the use of a generative model to carry out this post processing in the networks. Using conditional Generative Adversarial Network (GANs), we translate remote sensing images into map-based images from which roads are easily extracted, while retaining the underlying structure. Next, we extract road layers from the generated images. Through this approach, it is possible to achieve the same effect as if complicating post processing were done in the networks during the object extraction process."
 
