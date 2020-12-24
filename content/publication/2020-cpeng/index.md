@@ -1,5 +1,5 @@
 ---
-title: "Deep Floor Plan Analysis for Complicated Drawings Based on Style Transfer (currently on typesetting)"
+title: "Deep Floor Plan Analysis for Complicated Drawings Based on Style Transfer"
 authors:
 - Admin
 - Seula Park
@@ -27,7 +27,7 @@ abstract: "This paper presents a novel approach to retrieve indoor structures fr
 summary: "Keywords: Indoor Spaces; Floor Plan Analysis; Style Transfer; Conditional Generative Adversarial Networks (cGAN); Integer Programming  
 
 
-*Journal of Computing in Civil Engineering*, accepted in Aug. 2020."
+*Journal of Computing in Civil Engineering*, Volume 35 Issue 2 - March 2021"
 
 tags: []
 categories: ["Indoor"]
@@ -35,7 +35,7 @@ featured: true
 
 links:
 - name: pdf
-  url: 'media/2020-CPENG/CP-CPENG-3708_AUTHOR_1.pdf'
+  url: 'media/2020-CPENG/(ASCE)CP.1943-5487.0000942.pdf'
 # url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
 # url_code: '#'
 # url_dataset: '#'
