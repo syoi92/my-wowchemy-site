@@ -6,7 +6,7 @@ title: Seongyong Kim
 superuser: true
 
 # Role/position
-role: Research fellow
+role: Research Associate
 
 # Organizations/Affiliations
 organizations:
@@ -24,7 +24,7 @@ interests:
 
 education:
   courses:
-  - course: MEng in Civil Engineering
+  - course: MS in Civil Engineering
     institution: Seoul National University, South Korea
     year: 2019
   - course: BE in Architectural Engineering
@@ -71,8 +71,8 @@ user_groups:
 - Visitors
 ---
 
-I am currently a research fellow at Institute of Construction and Environmental Engineering ([ICEE](https://cee.snu.ac.kr/english/index.php)). I finished my MEng in SPatial INformatics Group at Seoul National University, advised by [Yongil Kim](http://spins.snu.ac.kr/) and [Kiyun Yu](https://gislbs.net/). I got my BE in architectural engineering at Seoul National Univeristy in South Korea. 
+I am currently a research asociate at Institute of Construction and Environmental Engineering ([ICEE](https://cee.snu.ac.kr/english/index.php)). I finished my MS in SPatial INformatics Group at Seoul National University, advised by [Yongil Kim](http://spins.snu.ac.kr/) and [Kiyun Yu](https://gislbs.net/). I also got my BE in architectural engineering at Seoul National Univeristy in South Korea. 
 
-As an early startup team member, I am also participating in [UITI](http://uiti.co.kr/) [[ :email:]](mailto:ceo@uiti.com) based on LBS business in Korea. I engaged in launching [집현전 [Wise Strategy to Buy a House]](https://ziphz.com/), the web service that recommends real estate to customers and links them to agents with low broker fees. Besides, by proposing a business item recommending starting locations to new business owners, I won a government fund worth $50000 in my sole name. For doing that, I've been working on a Minimum Value Product with the team I've hired.
+As an early startup team member, I've also worked at [UITI](http://uiti.co.kr/) [[ :email:]](mailto:ceo@uiti.com) based on LBS business in Korea. I engaged in launching [집현전 [Wise Strategy to Buy a House]](https://ziphz.com/), the web service that recommends real estate to customers and links them to agents with low broker fees. Besides, by proposing a business item of recommending starting sites to new market owners, I won a government fund worth $50000 in my sole name. For doing that, I've been working on a Minimum Value Product with the team I've hired.
 
 I plan to be an incoming student for the doctoral program in CEE at [Georgia Tech](https://ce.gatech.edu/) from 2021 Spring. 

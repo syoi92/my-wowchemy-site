@@ -23,6 +23,11 @@ subtitle = ""
 
   # Show a "See all pages" link underneath the featured content?
   link_to_archive = true
+  
+  [content.archive]
+    enable = true
+    text = "See all publications"
+    link = "publication/"
 
   # Filter posts by a taxonomy term.
   [content.filters]
