@@ -5,12 +5,12 @@ authors:
 - Seula Park
 - Hyeonjeong Kim
 - Kiyun Yu
-date: 2020-11-20T17:07:57+09:00
+date: 2021-03-20T17:07:57+09:00
 doi: "https://doi.org/10.1061/(ASCE)CP.1943-5487.0000942"
 draft: false
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2020-11-20T17:07:57+09:00
+publishDate: 2021-03-20T17:07:57+09:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -57,7 +57,7 @@ links:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: ["2020-Indoor"]
+projects: [] #["2020-Indoor"]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

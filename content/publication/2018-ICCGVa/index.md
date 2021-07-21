@@ -1,16 +1,16 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Designing of Indoor Linkable Pedestrian Network Data Model for the Transportation Vulnerable"
-authors: 
-- Seula Park
+title: "Proposal for a Method of Extracting Road Layers from Remote Sensing Images Using Conditional GANs"
+authors:
 - Admin
+- Seula Park
 - Kiyun Yu
-date: 2018-02-20T17:07:57+09:00
-doi: "https://doi.org/10.1145/3193025.3193048"
+date: 2018-02-20T17:03:01+09:00
+doi: "https://doi.org/10.1145/3193025.3193051"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2018-02-20T17:07:57+09:00
+publishDate: 2018-02-20T17:03:01+09:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -20,19 +20,19 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Proceedings of the 2nd International Conference on Digital Signal Processing (ICDSP 2018)"
-publication_short: "ICDSP 2018"
+publication_short: "ICDSP 2018 (**Oral Presentation** in Tokyo, Japan)"
 
-abstract: "There has been a recent increasing interest in guaranteeing the right for mobility of the transportation vulnerable and the demand for indoor routing services has been increasing as well. This paper proposes an indoor pedestrian network data model for navigation services for the transportation vulnerable. Based on the proposed network data model, it will be possible to design and construct indoor and outdoor network data in the future. In the proposed model, indoor ambulation facilities have been included and properties of the connecting facilities have been defined in detail, compared to the previous models."
+abstract: "With the recent advances in unmanned aerial vehicle (UAV) technology, remote sensing images have become relatively easy to obtain and their accuracy has increased enough to be able to handle land information. Therefore, there is a growing demand to utilize remote sensing images for extracting semantic objects Conventional methods are mainly focused on pixel-based classification and recently people commonly use convolutional neural networks, which post processing is required to linearize roads that are cut off and accurately shape the contours of buildings. We propose the use of a generative model to carry out this post processing in the networks. Using conditional Generative Adversarial Network (GANs), we translate remote sensing images into map-based images from which roads are easily extracted, while retaining the underlying structure. Next, we extract road layers from the generated images. Through this approach, it is possible to achieve the same effect as if complicating post processing were done in the networks during the object extraction process."
 
 # Summary. An optional shortened abstract.
-summary: "Keywords: Indoor network data model; Transportation vulnerable; Moving
-facility
+summary: "Keywords: Extracting roads; Remote sensing; Satellite images; Deep learning;
+Generative adversarial networks
 
 
-*2nd International Conference on Digital Signal Processing (ICDSP)*, Feb. 2018."
+**Oral Presentation**, *International Conference on Digital Signal Processing (ICDSP)*, Feb. 2018."
 
 tags: []
-categories: ["Indoor"]
+categories: []
 featured: false
 
 # Custom links (optional).
@@ -65,7 +65,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: ["2020-Indoor"]
+projects: [] #["2019-LandCover"]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

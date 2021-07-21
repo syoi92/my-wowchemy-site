@@ -6,24 +6,28 @@ title: Seongyong Kim
 superuser: true
 
 # Role/position
-role: Research Associate
+role: Graduate Research Assistant
 
 # Organizations/Affiliations
 organizations:
-- name: Institute of Construction and Environmental Engineering
-  url: "https://icee.snu.ac.kr/"
+- name: Georgia Technology of Institute
+  url: "https://ce.gatech.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include indoor information, GIS, construction automation based on computer vision.
+bio: I'm a grad student in CEE at Gatech. My research interests include consturction automation, 3D scene understanding, GIS.
 
 
 interests:
-- Construction Automation / Indoor Spatial Information
-- Geographic Information System / Location-based Services
-- Computer Vision
+- Construction Automation- UAV/UGV
+- Scan to BIM/ 3D Point Cloud Segmentation
+- Computer Vision/ Machine Learning 
+- Geographic Information Systems
 
 education:
   courses:
+  - course: Ph.D. in Civil Engineering
+    institution: Georgia Tech, Atlanta, Georgia
+    year: 2021 ~ present
   - course: MS in Civil Engineering
     institution: Seoul National University, South Korea
     year: 2019
@@ -54,9 +58,9 @@ social:
   link: https://orcid.org/0000-0002-0774-6791
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-- icon: cv
-  icon_pack: ai
-  link: media/cv.pdf
+# - icon: cv
+#   icon_pack: ai
+#   link: media/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -71,8 +75,6 @@ user_groups:
 - Visitors
 ---
 
-I am currently a research asociate at Institute of Construction and Environmental Engineering ([ICEE](https://cee.snu.ac.kr/english/index.php)). I finished my MS in SPatial INformatics Group at Seoul National University, advised by [Yongil Kim](http://spins.snu.ac.kr/) and [Kiyun Yu](https://gislbs.net/). I also got my BE in architectural engineering at Seoul National Univeristy in South Korea. 
+I am currently pursuing a Ph.D. in Civil Engineering at Georgia Tech. Being advised by Dr. Yong K. Cho, I'm working in the [RICAL](http://rical.ce.gatech.edu/) research team. My research interest is centered on Construction Automation based on UAV & UGV, 3D Scene Understanding using lidar, and GIS.
 
-As an early startup team member, I've also worked at [UITI](http://uiti.co.kr/) [[ :email:]](mailto:ceo@uiti.com) based on LBS business in Korea. I engaged in launching [집현전 [Wise Strategy to Buy a House]](https://ziphz.com/), the web service that recommends real estate to customers and links them to agents with low broker fees. Besides, by proposing a business item of recommending starting sites to new market owners, I won a government fund worth $50000 in my sole name. For doing that, I've been working on a Minimum Value Product with the team I've hired.
-
-I plan to be an incoming student for the doctoral program in CEE at [Georgia Tech](https://ce.gatech.edu/) from 2021 Spring. 
+I received a BE in Architectural Engineering and a MS in Civil Engineering both at Seoul National University. I worked in the SPatial INformatics group under the supervision of [Yongil Kim](http://spins.snu.ac.kr/) and [Kiyun Yu](https://gislbs.net/). After then, as an early startup team member of [**UITI Co.**](https://uiti.com), I engaged in the launch of the web service, that is [집현전](https://ziphz.com/).

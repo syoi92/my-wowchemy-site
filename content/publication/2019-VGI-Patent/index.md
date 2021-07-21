@@ -3,15 +3,16 @@
 
 title: "(Korean) 사용자 참여형 위치 식별 방법"
 authors:
-- Kiyun Yu (50%)
-- Janghyuk Im (20%)
+- Kiyun Yu 
+- Janghyuk Im
 - Admin
-- Jiyong Kim (10%)
-date: 2020-1-2T17:09:53+09:00
+- Jiyong Kim 
+date: 2018-01-02T17:09:53+09:00
 doi: ""
 
+
 # Schedule page publish date (NOT publication's date).
-publishDate: 2020-1-2T17:09:53+09:00
+publishDate: 2018-01-02T17:09:53+09:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -62,7 +63,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: ["2017-Address"]
+projects: [] #["2017-Address"]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

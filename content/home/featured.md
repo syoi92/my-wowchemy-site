@@ -25,7 +25,7 @@ subtitle = ""
   link_to_archive = true
   
   [content.archive]
-    enable = true
+    enable = false
     text = "See all publications"
     link = "publication/"
 

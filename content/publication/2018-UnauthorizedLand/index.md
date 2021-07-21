@@ -65,7 +65,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: ["2017-UnauthorizedLand"]
+projects: [] #["2017-UnauthorizedLand"]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

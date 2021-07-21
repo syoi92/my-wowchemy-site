@@ -66,7 +66,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: ["2020-Indoor"]
+projects: [] #["2020-Indoor"]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
