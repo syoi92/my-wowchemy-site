@@ -23,6 +23,11 @@ subtitle = ""
   # Page order. Descending (desc) or ascending (asc) date.
   order = "desc"
 
+  [content.archive]
+    enable = false
+    text = "See all publications"
+    link = "publication/"
+
   # Filter posts by a taxonomy term.
   [content.filters]
     tag = ""
@@ -71,5 +76,7 @@ subtitle = ""
 +++
 
 {{% callout note %}}
-Quickly discover relevant content by [filtering publications](./publication/).
+[SEE ALL PUBLICATIONS](./publication/). 
 {{% /callout %}}
+
+<!-- Quickly discover relevant content by [filtering publications](./publication/). -->

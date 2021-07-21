@@ -77,4 +77,4 @@ user_groups:
 
 I am currently pursuing a Ph.D. in Civil Engineering at Georgia Tech. Being advised by Dr. Yong K. Cho, I'm working in the [RICAL](http://rical.ce.gatech.edu/) research team. My research interest is centered on Construction Automation based on UAV & UGV, 3D Scene Understanding using lidar, and GIS.
 
-I received a BE in Architectural Engineering and a MS in Civil Engineering both at Seoul National University. I worked in the SPatial INformatics group under the supervision of [Yongil Kim](http://spins.snu.ac.kr/) and [Kiyun Yu](https://gislbs.net/). After then, as an early startup team member of [**UITI Co.**](https://uiti.com), I engaged in the launch of the web service, that is [집현전](https://ziphz.com/).
+I received a BE in Architectural Engineering and a MS in Civil Engineering both at Seoul National University. I worked in the SPatial INformatics group under the supervision of [Yongil Kim](http://spins.snu.ac.kr/) and [Kiyun Yu](https://gislbs.net/). After then, as an early startup team member of [UITI Co.](https://uiti.com), I engaged in the launch of the web service, that is [집현전](https://ziphz.com/).
