@@ -14,20 +14,21 @@ organizations:
   url: "https://ce.gatech.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I'm a grad student in CEE at Gatech. My research interests include consturction automation, 3D scene understanding, GIS.
+bio: I'm a grad student in CEE at Gatech. My research interests include consturction automation, 3D scene understanding on active sites.
 
 
 interests:
 - Construction Automation- UAV/UGV
-- Scan-to-BIM/ 3D Scene Understanding
-- Generative-AI
+- 3D Scene Understanding in Active Sites
+- Generative AI; Computer Vision; Scan2BIM
+- Geographic Information System (GIS)
 
 education:
   courses:
   - course: Ph.D. in Civil Engineering
     institution: Georgia Tech, Atlanta, Georgia
     year: 2021 ~ present
-  - course: MS in Computer Science-Perception & Robotics
+  - course: MS in Computer Science
     institution: Georgia Tech, Atlanta, Georgia
     year: 2024
   - course: MS in Civil Engineering
@@ -76,7 +77,10 @@ user_groups:
 - Researchers
 - Visitors
 ---
+<!-- I am currently pursuing a Ph.D. in Civil Engineering at Georgia Tech. Being advised by Dr. Yong K. Cho, I'm working in the [RICAL](http://rical.ce.gatech.edu/) research team. My research interest is centered on Construction Automation based on UAV & UGV, 3D Scene Understanding using lidar, and GIS.
 
-I am currently pursuing a Ph.D. in Civil Engineering at Georgia Tech. Being advised by Dr. Yong K. Cho, I'm working in the [RICAL](http://rical.ce.gatech.edu/) research team. My research interest is centered on Construction Automation based on UAV & UGV, 3D Scene Understanding using lidar, and GIS.
+I received a BE in Architectural Engineering and a MS in Civil Engineering both at Seoul National University. I worked in the SPatial INformatics group under the supervision of [Yongil Kim](http://spins.snu.ac.kr/) and [Kiyun Yu](https://gislbs.net/). After then, as an early startup team member of [UITI Co.](https://uiti.com), I engaged in the launch of the web service, that is [집현전](https://ziphz.com/). -->
 
-I received a BE in Architectural Engineering and a MS in Civil Engineering both at Seoul National University. I worked in the SPatial INformatics group under the supervision of [Yongil Kim](http://spins.snu.ac.kr/) and [Kiyun Yu](https://gislbs.net/). After then, as an early startup team member of [UITI Co.](https://uiti.com), I engaged in the launch of the web service, that is [집현전](https://ziphz.com/).
+I am currently pursuing a Ph.D. in Civil Engineering at Georgia Tech, advised by Dr. Yong K. Cho. As a member of the Robotics and Intelligent Construction Automation Lab ([RICAL](http://rical.ce.gatech.edu/)), my research focuses on construction automation, with an emphasis on 3D scene understanding using LiDAR and vision sensors, UAV- and UGV-based data collection, and Scan-to-BIM technologies.
+
+At Seoul National University, I worked in the Spatial INformatics group under the supervision of [Dr. Yongil Kim](http://spins.snu.ac.kr/) and [Dr. Kiyun Yu](https://gislbs.net/). Following that, I gained brief experience as a GIS-focused startup entrepreneur, leading a government-funded project on business site selection.

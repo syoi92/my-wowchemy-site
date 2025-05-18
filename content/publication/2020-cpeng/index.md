@@ -24,7 +24,7 @@ publication: ASCE Journal of Computing in Civil Engineering
 
 abstract: "This paper presents a novel approach to retrieve indoor structures from raster images of complicated floor plans. We extract the building elements in the floor plan and process them into a vectorized form to provide indoor layout information. Unlike conventional approaches, the proposed model is robust when recognizing rooms and openings surrounded by obscuring patterns, including superimposed graphics and irregular notation. To this end, we integrate various floor plan formats into a unified style using conditional generative adversarial networks prior to vectorization. This style-transferred plan that follows the unified style represents the room structure intuitively and is readily vectorized due to its concise expression. Raster-to-vector conversion is conducted with a combinatorial optimization in junction units of the layout. The experimental results demonstrate that when implemented with complex drawings, our model is comparable to existing methods in the detection and recognition of rooms and provides a much better score in one-to-one matches."
 # Summary. An optional shortened abstract.
-summary: "Keywords: Indoor Spaces; Floor Plan Analysis; Style Transfer; Conditional Generative Adversarial Networks (cGAN); Integer Programming  
+summary: "Keywords: Indoor Spaces; Floor Plan Analysis; Style Transfer; GAN
 
 
 *Journal of Computing in Civil Engineering*, Volume 35 Issue 2 - March 2021"
