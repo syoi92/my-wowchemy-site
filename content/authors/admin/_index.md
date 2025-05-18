@@ -19,19 +19,21 @@ bio: I'm a grad student in CEE at Gatech. My research interests include consturc
 
 interests:
 - Construction Automation- UAV/UGV
-- Scan to BIM/ 3D Point Cloud Segmentation
-- Computer Vision/ Machine Learning 
-- Geographic Information Systems
+- Scan-to-BIM/ 3D Scene Understanding
+- Generative-AI
 
 education:
   courses:
   - course: Ph.D. in Civil Engineering
     institution: Georgia Tech, Atlanta, Georgia
     year: 2021 ~ present
+  - course: MS in Computer Science-Perception & Robotics
+    institution: Georgia Tech, Atlanta, Georgia
+    year: 2024
   - course: MS in Civil Engineering
     institution: Seoul National University, South Korea
     year: 2019
-  - course: BE in Architectural Engineering
+  - course: BS in Architectural Engineering
     institution: Seoul National University, South Korea
     year: 2017
 
@@ -46,12 +48,12 @@ social:
 # - icon: twitter
 #   icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
-# - icon: google-scholar
-#   icon_pack: ai
-#   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/syoi92
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.co.uk/citations?user=64HeatcAAAAJ&hl=en
+# - icon: github
+#   icon_pack: fab
+#   link: https://github.com/syoi92
   
 - icon: orcid
   icon_pack: ai

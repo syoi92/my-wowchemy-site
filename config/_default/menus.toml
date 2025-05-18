@@ -14,14 +14,14 @@
 #   weight = 20
 
 [[main]]
-  name = "Projects"
-  url = "#projects"
-  weight = 40
-
-[[main]]
   name = "Publications"
   url = "#featured"
-  weight = 30
+  weight = 10
+
+[[main]]
+  name = "Projects"
+  url = "#projects"
+  weight = 20
 
 # [[main]]
 #   name = "Contact"
@@ -31,6 +31,11 @@
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/media/cv.pdf` and uncomment the lines below.
 [[main]]
-   name = "CV (~'20)"
-   url = "media/cv.pdf"
-   weight = 70
+   name = "CV"
+   url = "media/cv-25.pdf"
+   weight = 30
+
+[[main]]
+   name = "Archived (~'20)"
+   url = "media/cv-archived.pdf"
+   weight = 40
