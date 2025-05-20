@@ -4,7 +4,7 @@
 title: "GIS- Advanced Address System [Korea MOI, Jul.-Dec. 2017]"
 summary: ""
 authors: []
-tags: ["past", "gis"]
+tags: ["past"]
 categories: []
 date: 2020-11-20T16:53:40+09:00
 

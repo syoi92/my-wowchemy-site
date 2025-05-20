@@ -5,7 +5,7 @@
 title: "GIS- Consulting Location Allocation as an Adversory Researcher [Samsung Economic Research Institute, May–Jun. 2020]"
 summary: "GIS consulting based on open source software (QGIS)"
 authors: ["admin"]
-tags: ["recent", "gis"]
+tags: ["gis"]
 categories: ["GIS"]
 date: 2020-11-20T14:20:55+09:00
 
