@@ -1,32 +1,33 @@
-<p align="center"><a href="https://wowchemy.com" target="_blank" rel="noopener"><img src="https://wowchemy.com/img/logo_200px.png" alt="Wowchemy Website Builder"></a></p>
+# My Website
 
-# Academic Template for [Hugo](https://github.com/gohugoio/hugo)
+This is a Wowchemy Academic site. The theme module requires Hugo Extended 0.78.2 or newer. On this Mac, run it with **Hugo Extended 0.81.0**. It is not compatible with the latest Hugo installed on the system.
 
-The Hugo **Academic Resumé Template** empowers you to create your job-winning online resumé and showcase your academic publications.
+Local server: [http://127.0.0.1:1313/](http://127.0.0.1:1313/)
 
-[Check out the latest demo](https://academic-demo.netlify.app) of what you'll get in less than 10 minutes, or [view the showcase](https://wowchemy.com/user-stories/).
+## Run
 
-[**Wowchemy**](https://wowchemy.com) makes it easy to create a beautiful website for free. Edit your site in Markdown, Jupyter, or RStudio (via Blogdown), generate it with Hugo, and deploy with GitHub or Netlify. Customize anything on your site with widgets, themes, and language packs.
+The `website-hugo` conda environment contains Hugo Extended 0.81.0, Go, and Git. Do not use the system `hugo`, `go`, or `git`.
 
-- 👉 [**Get Started**](https://wowchemy.com/docs/install/)
-- 📚 [View the **documentation**](https://wowchemy.com/docs/)
-- 💬 [Chat with the **Wowchemy community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
-- 🐦 Twitter: [@wowchemy](https://twitter.com/wowchemy) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithWowchemy](https://twitter.com/search?q=(%23MadeWithWowchemy%20OR%20%23MadeWithAcademic)&src=typed_query)
-- 💡 [Request a **feature** or report a **bug** for _Wowchemy_](https://github.com/wowchemy/wowchemy-hugo-modules/issues)
-- ⬆️ **Updating Wowchemy?** View the [Update Guide](https://wowchemy.com/docs/update/) and [Release Notes](https://wowchemy.com/updates/)
+```bash
+conda activate website-hugo
+hugo server --disableFastRender --bind 127.0.0.1 --port 1313
+```
 
-## Crowd-funded open-source software
+## Recreate the environment
 
-To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.
+conda-forge has no Apple Silicon build of this Hugo version. Install Go and Git with conda, then download the Hugo binary from the release.
 
-### [❤️ Click here to unlock rewards with sponsorship](https://wowchemy.com/plans/)
+```bash
+conda create -n website-hugo -c conda-forge go git -y
+conda activate website-hugo
 
-## Ecosystem
+curl -fL -o /tmp/hugo.tar.gz \
+  https://github.com/gohugoio/hugo/releases/download/v0.81.0/hugo_extended_0.81.0_macOS-ARM64.tar.gz
+tar -xzf /tmp/hugo.tar.gz -C /tmp hugo
+cp /tmp/hugo "$CONDA_PREFIX/bin/hugo"
+chmod +x "$CONDA_PREFIX/bin/hugo"
 
-* **[Wowchemy Admin](https://github.com/wowchemy/wowchemy-admin/):** An admin tool to import publications from BibTeX
+hugo version
+```
 
-[![Screenshot](https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png)](https://wowchemy.com)
-
-<!--
-[![Analytics](https://ga-beacon.appspot.com/UA-78646709-2/academic-kickstart/readme?pixel)](https://github.com/igrigorik/ga-beacon)
--->
+`hugo version` should report `v0.81.0` and `extended`.

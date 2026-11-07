@@ -6,11 +6,11 @@ title: Seongyong Kim
 superuser: true
 
 # Role/position
-role: Graduate Research Assistant
+role: Connecting computer vision, AI, and robotics with the needs of construction sites.
 
 # Organizations/Affiliations
 organizations:
-- name: Georgia Technology of Institute
+- name: Georgia Institute of Technology
   url: "https://ce.gatech.edu/"
 
 # Short bio (displayed in user profile at end of posts)
@@ -18,16 +18,19 @@ bio: I'm a grad student in CEE at Gatech. My research interests include consturc
 
 
 interests:
-- Construction Automation- UAV/UGV
-- 3D Scene Understanding in Active Sites
-- Generative AI; Computer Vision; Scan2BIM
-- Geographic Information System (GIS)
+- |
+  Construction Site Perception and Understanding
+
+  - 3D Reconstruction & Segmentation, Scan-to-BIM
+  - Agentic AI for Project-Level Information Integration
+- Construction Robotics and Automation – Drones, Quadrupeds
+- Human–Robot Interaction and Construction Safety
 
 education:
   courses:
   - course: Ph.D. in Civil Engineering
     institution: Georgia Tech, Atlanta, Georgia
-    year: 2021 ~ present
+    year: 2021 ~ 
   - course: MS in Computer Science
     institution: Georgia Tech, Atlanta, Georgia
     year: 2024
@@ -77,9 +80,9 @@ user_groups:
 - Researchers
 - Visitors
 ---
-
+<!-- 
 I received a BE in Architectural Engineering and a MS in Civil Engineering both at Seoul National University. I worked in the SPatial INformatics group under the supervision of [Yongil Kim](http://spins.snu.ac.kr/) and [Kiyun Yu](https://gislbs.net/). After then, as an early startup team member of [UITI Co.](https://uiti.com), I engaged in the launch of the web service, that is [집현전](https://ziphz.com/). -->
 
-I am currently pursuing a Ph.D. in Civil Engineering at Georgia Tech, advised by Dr. Yong K. Cho. As a member of the Robotics and Intelligent Construction Automation Lab ([RICAL](http://rical.ce.gatech.edu/)), my research focuses on construction automation, with an emphasis on 3D scene understanding using LiDAR and vision sensors, UAV- and UGV-based data collection, and Scan-to-BIM technologies.
+I am currently pursuing a Ph.D. in Civil Engineering at Georgia Tech, advised by Dr. Yong K. Cho. As a member of the Robotics and Intelligent Construction Automation Lab ([RICAL](http://rical.ce.gatech.edu/)), my research combines 3D perception, robotics, and AI agents to turn construction-site observations into actionable information grounded in site evidence.
 
-At Seoul National University, I worked in the Spatial INformatics group under the supervision of [Dr. Yongil Kim](http://spins.snu.ac.kr/) and [Dr. Kiyun Yu](https://gislbs.net/). Following that, I gained brief experience as a GIS-focused startup entrepreneur, leading a government-funded project on business site selection.
+At Seoul National University, I worked in the Spatial INformatics group under the supervision of [Dr. Yongil Kim](http://spins.snu.ac.kr/) and [Dr. Kiyun Yu](https://gislbs.net/). Following that, I gained experience as a GIS-focused startup entrepreneur, leading a government-funded project on business site selection.
