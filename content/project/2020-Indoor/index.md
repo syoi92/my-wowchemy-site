@@ -4,7 +4,7 @@
 title: "Indoor Reconstruction [Korea MOLIT, Jul. 2017 – Dec. 2020]"
 summary: "Floorplan Analysis: retriving the indoor structure from floorplans"
 authors: []
-tags: ["selected", "gis"]
+tags: ["gis"]
 categories: ["Indoor"]
 date: 2020-11-20T17:00:07+09:00
 

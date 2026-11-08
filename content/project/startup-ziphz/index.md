@@ -4,7 +4,7 @@
 title: "Startup- launching the web application on real estate in Korea"
 summary: "[집현전](https://ziphz.com/#), the web service for recommending real estate to customers and linking them to real estate agents with low broker fees."
 authors: []
-tags: ["selected", "startup"]
+tags: ["startup", "gis"]
 categories: ["startup"]
 date: 2020-11-10T13:59:06+09:00
 

@@ -4,7 +4,7 @@
 title: "Startup- recommending starting locations to new business owners"
 summary: "Funded by *Korea Ministry of SMEs and Startups*; a MVP will be ready by Jan. 2021"
 authors: []
-tags: ["startup"]
+tags: ["startup", "gis"]
 categories: ["startup"]
 date: 2020-11-19T16:59:03+09:00
 

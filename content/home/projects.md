@@ -26,16 +26,20 @@ subtitle = ""
     tag = "selected"
 
   [[content.filter_button]]
-    name = "3D Mapping"
-    tag = "3d"
+    name = "Site Perception"
+    tag = "perception"
 
   [[content.filter_button]]
-    name = "Spatial INformatics"
-    tag = "gis"
-  
+    name = "Monitoring & Safety"
+    tag = "monitoring"
+
   [[content.filter_button]]
-    name = "GIS-Startup"
-    tag = "startup"
+    name = "Human–Robot Interaction"
+    tag = "hri"
+
+  [[content.filter_button]]
+    name = "GIS"
+    tag = "gis"
 
   [[content.filter_button]]
     name = "All"
